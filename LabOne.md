@@ -9,9 +9,9 @@
    Cannot access *messages* folder before *lecture1* folder as the *lecture1* folder contains *messages* folder.
    i.e. *lecture1/messages*
 5. example of using the command with a path to a file as an argument.
-   *cd* cannot be used with files, only directorys.
-   i.e
-   > Will receive "Hello.java; Not a directory" as an error message*
+   *cd* cannot be used with files, only directorys, with error message:
+
+   > Hello.java; Not a directory as an error message
    
 ## command *ls*
 1. example of using the command with no arguments.
