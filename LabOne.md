@@ -15,8 +15,11 @@
    
 ## command *ls*
 1. example of using the command with no arguments.
-2. example of using the command with a path to a directory as an argument.
-3. example of using the command with a path to a file as an argument.
+   The *ls* without an argument shows the files and directories, in this case just
+   > lecture1
+3. example of using the command with a path to a directory as an argument.
+     The *ls* used with a path to a directory as an argument
+5. example of using the command with a path to a file as an argument.
 
 ## command *cat*
 1. example of using the command with no arguments.
