@@ -18,8 +18,9 @@
    The *ls* without an argument shows the files and directories, in this case just
    > lecture1
 3. example of using the command with a path to a directory as an argument.
-     The *ls* used with a path to a directory as an argument
+     The *ls* used with a path to a directory as an argument lists all thr contents of the directory.      It is notable that the name of files are in a blue bold.
 5. example of using the command with a path to a file as an argument.
+   The *ls* command with a path to a file as an argument shows its location, proving it is in that directory. You cannot name it by itself you must name the directory before the file or you will get an error message.
 
 ## command *cat*
 1. example of using the command with no arguments.
