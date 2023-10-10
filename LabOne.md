@@ -29,7 +29,7 @@
 ![Image](Cat.jpeg)
 1. ## **Example using the command with no arguments.**
    The *cat* command without any arguments will change the way you type into the terminal, simply saving whatever you enter. To exit this mode, do CTRL+D.
-2. ## **example of using the command with a path to a directory as an argument.**
+2. ## **Example of using the command with a path to a directory as an argument.**
   The *cat* command with a path to a directory as an argument will confirm that it is a directory.
 
 3. ## **Example using the command with a path to a file as an argument.**
