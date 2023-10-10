@@ -1,6 +1,7 @@
 # **Lab Report 1 - Remote Access and FileSystem (Week 1)**
 
 ### *cd* Command
+![Image](CD Command.jpeg)
 1. ## **Example using the command with no arguments.**
    *cd* without an argument leads me back to the Home directory (out of any files that I opened)
 2. ## **Example using the command with a path to a directory as an argument.**
