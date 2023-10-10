@@ -1,7 +1,7 @@
 # **Lab Report 1 - Remote Access and FileSystem (Week 1)**
 
 ### *cd* Command
-![Image]CD Command.jpeg
+![Image](CD Command.jpeg)
 1. ## **Example using the command with no arguments.**
    *cd* without an argument leads me back to the Home directory (out of any files that I opened)
 2. ## **Example using the command with a path to a directory as an argument.**
@@ -15,7 +15,7 @@
    > Hello.java; Not a directory as an error message
    
 ### *ls* Command
-![Image]ls command.jpeg
+![Image](ls command.jpeg)
 1. ## **Example using the command with no arguments.**
    The *ls* without an argument shows the files and directories, in this case just
    > lecture1
@@ -26,7 +26,7 @@
    You cannot name it by itself you must name the directory before the file or you will get an error message.
 
 ### *cat* Command
-![Image]cat command.jpeg
+![Image](cat command.jpeg)
 1. ## **Example using the command with no arguments.**
    The *cat* command without any arguments will change the way you type into the terminal, simply saving whatever you enter. To exit this mode, do CTRL+D.
 2. ## **example of using the command with a path to a directory as an argument.**
