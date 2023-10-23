@@ -4,12 +4,14 @@
 ![Image](CD.jpeg)
 1. # *Example using the command with no arguments.*
    *cd* changes the current working directory to the user's home directory.
-2. # *Example using the command with a path to a directory as an argument.*
+   Without argument this is just
+   > /home
+3. # *Example using the command with a path to a directory as an argument.*
    *cd* changes the current working directory to the specified director making that the current working directory.
    Must enter the main folder to access sub-folders.
    Cannot access *messages* folder before *lecture1* folder as the *lecture1* folder contains *messages* folder.
-   i.e. *lecture1/messages*
-3. # *Example using the command with a path to a file as an argument.*
+   i.e. *lecture1/messages changes the working directory to /home/lecture1/messages*
+4. # *Example using the command with a path to a file as an argument.*
    *cd* cannot be used with files, only directorys, with error message:
 
    > Hello.java; Not a directory as an error message
